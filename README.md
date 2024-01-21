@@ -2,4 +2,4 @@
 Revisiting PHP after a long break; code and notes on my journey.
 
 ## What is it?
-Based on Luis Ramirez Jr.'s Complete Modern PHP Developer Course in 2023; available on Udemy.
+Based on <b>Luis Ramirez Jr</b>.'s <b>Complete Modern PHP Developer Course in 2023</b>; available on Udemy.
