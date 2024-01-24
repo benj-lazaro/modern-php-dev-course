@@ -1,0 +1,22 @@
+Replit Environment
+------------------
+- To setup the Replit (https://replit.com) for PHP development
+    - Login account
+
+    - Click "Create Repl" button
+        - Open the Create Repl window
+
+    - On the text field Template
+        - Type "PHP"
+        - Click on "PHP Web Server"
+
+    - On the text field Title
+        - Type "PHP Fundamentals"
+
+    - Then click "Create Repl" button
+
+    - On the top of the environment
+        - Click the "Run" button
+        - Replit launches the PHP application
+        - Webview window previews the application
+        

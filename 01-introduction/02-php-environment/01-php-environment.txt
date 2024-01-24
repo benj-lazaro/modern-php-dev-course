@@ -1,0 +1,35 @@
+PHP Environment
+---------------
+- An environment is the machine were an application runs
+
+- Generally, there are two (2) types of environments
+    - Local Environment
+        - Setup on your personal computer or local machine
+        - Where you can write, test & run your code
+        - Only accessible to the developer
+
+        - Primarily used for developing and testing process
+        - Provide the opportunity to break things without disrupting users of the application
+        - Freely make changes / modifications before shipping the application to the real world
+
+        - Luckily, the PHP community provided solutions to setup a Local Environment
+            - XAMPP (https://www.apachefriends.org/index.html)
+            - MAMP (https://www.mamp.info/en/windows/)
+            - Laragon (https://laragon.org/)
+
+            - Replit (https://replit.com/)
+                - Online environment accessible from the browser
+
+            - Docker (https://www.docker.com/)
+                - A tool for managing environments used by many professional PHP developers
+
+
+    - Production Environment
+        - It is a live environment where the application is deployed & running for users
+        - Accessible to the real world
+        - Not the place to test the application's code
+
+        - Typically hosted on a remote server
+            - Designed to handle demands of real-world usage
+            - Offers security, scalability & reliability
+            - Monitored, managed & maintained by a team of professionals to ensure optimal performance
