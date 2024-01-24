@@ -1,0 +1,14 @@
+What Is PHP?
+------------
+- A general purpose programming language that is especially suited for Web Development
+    - Website (https://www.php.net/)
+
+
+What is expected to learn from this course
+- Basic Syntax
+- Object Oriented Programming
+- Cookied & Sessions
+- Databases
+- Dependency Management
+- Caching & Security
+- MVC Architecture & Routing
