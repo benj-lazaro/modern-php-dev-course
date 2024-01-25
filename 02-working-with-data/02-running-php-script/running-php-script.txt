@@ -1,0 +1,19 @@
+Running A PHP Script
+--------------------
+- The job of the PHP interpreter
+    - Read PHP code
+    - Interprets it into machine code
+
+
+- The job of the web server
+    - On a Static Website
+        - User enters a URL to access a website or resource from a website
+        - Web server receives the request
+        - Web server looks for the corresponding resource specified in the URL
+        - If the resource is found, it is sent back to the browser (user)
+
+    - On a Dynamic Website
+        - Similar to a Statoc Website except
+        - PHP interpreter executes the file (script)
+            - Generates HTML
+        - Web server sends back HTML to the user
