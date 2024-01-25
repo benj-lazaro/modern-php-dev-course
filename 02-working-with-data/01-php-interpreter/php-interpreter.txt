@@ -1,0 +1,18 @@
+The PHP Interpreter
+-------------------
+- PHP is an open-source general-purpose scripting language
+    - Used for developing web applications
+
+    - Open-source software (OSS)
+        - Code that has been freely released to the public
+        - GitHub Repository (https://github.com/php)
+
+    - General purpose programming language
+        - It can be utilized to develop different kinds of programs
+
+    - Scripting language
+        - Programming language that is interpreted (instead of compiled)
+        - Reads & executes the code line-by-line
+        - Translates each line into machine code & then executes it immediately
+
+        - PHP is an interpreted programming language (i.e. scripting)
